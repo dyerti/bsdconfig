@@ -1,0 +1,4 @@
+bsdconfig
+=========
+
+BSD configuration files
